@@ -2,5 +2,5 @@
 
 - https://codeally.io/
 - https://www.visualcv.com/
-- xing
+- xing.com
 - join.com

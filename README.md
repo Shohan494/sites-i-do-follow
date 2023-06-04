@@ -4,6 +4,7 @@
 - https://www.visualcv.com/
 - xing.com
 - join.com
+- credly
 
 ## Should try creating acount
 - greenhouse.io
